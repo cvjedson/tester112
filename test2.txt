@@ -2,4 +2,3 @@ next text file
 new line added
 gcjj fyfyf
 local update
-remote added
